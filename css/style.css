@@ -16,7 +16,7 @@ header, footer {
 header {
   font-family: Lora;
   color: #8a8384;
-  min-height: 175vh;
+  min-height: 75vh;
   display: flex;
 }
 
@@ -38,7 +38,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #545454;
   padding: 10px 0px 10px 10px;
 }
 
@@ -56,7 +56,7 @@ img {
 }
 
 .bio {
-  color: #ffffff;
+  color: #8a8384;
   font-size: 24px;
   font-family: 'Lora';
 }
@@ -71,7 +71,7 @@ img {
   border-radius: 28px;
   border: 1px solid #ffffff;
   cursor: pointer;
-  color: #ffffff;
+  color: #8a8384;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
