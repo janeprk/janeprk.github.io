@@ -38,7 +38,7 @@ main {
 
 h2 {
   font-family: Anton;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
@@ -98,7 +98,7 @@ img {
 
 .description {
   font-family: Lora;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
@@ -115,7 +115,7 @@ img {
 footer div {
   height: 100%;
   font-family: Lora;
-  font-size: 14px;
+  font-size: 16px;
   display: flex;
   align-content: center;
   padding: 10px 20px;
