@@ -9,14 +9,14 @@ body {
 }
 header, footer {
   background-color: #d5cccf;
-  text-align: center;
+  text-align: left;
   /* min-width: 500px; */
 }
 
 header {
   font-family: Lora;
   color: #fff;
-  min-height: 50vh;
+  min-height: 100vh;
   display: flex;
 }
 
