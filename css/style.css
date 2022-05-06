@@ -96,6 +96,13 @@ img {
   width: 100%;
 }
 
+caption {
+  font-family: Lora;
+  font-size: 14px;
+  align-content: left;
+  color: rgba(255, 255, 255, 0.5);
+}
+
 .description {
   font-family: Lora;
   font-size: 16px;
